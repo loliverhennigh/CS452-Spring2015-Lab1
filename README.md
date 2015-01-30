@@ -2,7 +2,8 @@
 
 CS452/EE465 Spring 2015 Lab1
 
-Learn how to create and display three 2D shapes and
-toggle among them using the mouse.
+Oliver Hennigh
+
+I sent all vertices to the gpu then toggled between them using clicking.
 
 due: Friday, 1/30/15, at midnight
